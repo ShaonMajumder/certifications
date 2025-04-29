@@ -9,7 +9,11 @@
    - **Issued:** March 21, 2025  
    - **Certificate:** [View Here](https://www.testdome.com/certificates/ca0ef201d39746b1947115a56c191527)  
 
-3. **Associate Data Scientist in Python – DataCamp**  
+3. **SQL (Basic) Skill Certification – HackerRank**
+   - **Issued:** April 29, 2025  
+   - **Certificate:** [View Here](https://www.hackerrank.com/certificates/FEABC4E9074C)  
+
+4. **Associate Data Scientist in Python – DataCamp**  
    - **Course Length:** 84 Hours  
    - **Completed On:** April 18, 2018  
    - **Certificate:** [View Here](https://www.datacamp.com/statement-of-accomplishment/track/fb67d482c96494123b5ba45ac3821e0439a4bf8f?raw=1)
