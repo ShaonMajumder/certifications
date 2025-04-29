@@ -13,6 +13,10 @@
    - **Issued:** April 29, 2025  
    - **Certificate:** [View Here](https://www.hackerrank.com/certificates/FEABC4E9074C)  
 
+3. **Python (Basic) Skill Certification – HackerRank**
+   - **Issued:** June 2, 2022
+   - **Certificate:** [View Here](https://www.hackerrank.com/certificates/26F2D0C3D521)
+
 4. **Associate Data Scientist in Python – DataCamp**  
    - **Course Length:** 84 Hours  
    - **Completed On:** April 18, 2018  
